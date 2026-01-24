@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Fiona Liu! 👋
 
-<!--
-**fionaliu0105/fionaliu0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior at **Northwestern University** majoring in **Cognitive Science** and **Data Science**. My research focuses on using computational methods to understand human perception, abstraction, and creativity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+
+**Predictive Modeling of "Quick, Draw!" Sketches** *(In Progress)*
+* **Goal:** Building a supervised learning pipeline to classify object categories from vector-based drawing data.
+* **Methods:** Engineering geometric features (curvature, stroke density) and comparing model architectures (Random Forest, XGBoost) in R.
+* **Status:** Currently being developed within a **private course repository** for *Data Science 2*. Code can be made available upon request after March 2026.
+
+**Affective Language Analysis**
+* **Goal:** Analyzed structure among affective dimensions (valence, arousal, dominance) in a dataset of 13,000+ English lemmas.
+* **Finding:** Modeled non-linear valence-arousal relationships using LOESS smoothing.
+* **Tools:** R (tidyverse, ggplot2).
+
+---
+
+### 🛠️ Skills & Tools
+* **Languages:** R, Python, SQL, MATLAB
+* **Data:** Tidyverse, Tidymodels, Pandas
+* **Research:** Eye-tracking, fMRI analysis, Experimental Design
+
+--- 
+- 😄 Pronouns: she/her
+- 📫 **Reach me at:** [fionaliu2027@u.northwestern.edu](mailto:fionaliu2027@u.northwestern.edu)
