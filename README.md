@@ -25,5 +25,4 @@ I am a Junior at **Northwestern University** majoring in **Cognitive Science** a
 
 ### 🛠️ Skills & Tools
 * **Languages:** R, Python, SQL, MATLAB
-* **Data:** Tidyverse, Tidymodels, Pandas
-* **Research:** Eye-tracking, fMRI analysis, Experimental Design
+* **Research:** Eye-tracking, fMRI analysis
