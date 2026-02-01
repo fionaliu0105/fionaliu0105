@@ -14,13 +14,7 @@ I am a Junior at **Northwestern University** majoring in **Cognitive Science** a
 * **Goal:** Building a supervised learning pipeline to classify object categories from vector-based drawing data.
 * **Methods:** Engineering geometric features (curvature, stroke density) and comparing model architectures (Random Forest, XGBoost) in R.
 * **Status:** Currently being developed within a **private course repository** for *Data Science 2*.
-
-**Affective Language Analysis**
-* **Goal:** Analyzed structure among affective dimensions (valence, arousal, dominance) in a dataset of 13,000+ English lemmas.
-* **Finding:** Modeled non-linear valence-arousal relationships using LOESS smoothing.
-* **Tools:** R (tidyverse, ggplot2).
-* **Status:** Completed within a **private course repository** for *Data Science 1*.
-
+* 
 ---
 
 ### 🛠️ Skills & Tools
