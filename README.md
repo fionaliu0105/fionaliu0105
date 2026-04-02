@@ -1,6 +1,6 @@
 ### Hi there, I'm Fiona Liu! 👋
 
-I am a Junior at **Northwestern University** majoring in **Cognitive Science** and **Data Science**. My research focuses on using computational methods to understand human perception, abstraction, and creativity.
+I am a Junior at **Northwestern University** majoring in **Cognitive Science** and **Data Science** and minoring in **Artificial Intelligence**. My research focuses on using computational methods to understand human perception, abstraction, and creativity.
 
 - 😄 Pronouns: she/her
 - 📫 **Reach me at:** [fionaliu2027@u.northwestern.edu](mailto:fionaliu2027@u.northwestern.edu)
