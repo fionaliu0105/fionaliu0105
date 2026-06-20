@@ -1,6 +1,6 @@
 ## About Me
 - Cognitive Science & Data Science at Northwestern University
-- Researching human perception, abstraction, and creativity through computational methods
+- Researching how humans perceive, represent, and navigate the world through cognitive science, neuroscience, and AI
 - Loves bouldering🧗, badminton🏸, photography📷, and anything about the brain🧠!
 
 ## Get in Touch
