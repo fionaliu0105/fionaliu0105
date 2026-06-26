@@ -1,5 +1,5 @@
 ## About Me
-- Cognitive Science & Data Science @ Northwestern University | AI Minor
+- Cognitive Science & Data Science Major @ Northwestern University | AI Minor
 - Researching how humans perceive, represent, and navigate the world through cognitive science, neuroscience, and AI
 - Loves bouldering, badminton, and photography.
 
