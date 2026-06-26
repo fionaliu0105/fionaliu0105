@@ -1,6 +1,7 @@
 ## About Me
 - Cognitive Science & Data Science Major @ Northwestern University | AI Minor
-- Researching how humans perceive, represent, and navigate the world through cognitive science, neuroscience, and AI
+- Undergraduate researcher in NeuroAI: building computational models of how the brain represents visual scenes and musical structure.
+- Methods: RSA, OPM-MEG, Python/R/PyTorch.
 - Loves bouldering, badminton, and photography.
 
 ## Get in Touch
