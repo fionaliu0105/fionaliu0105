@@ -1,5 +1,4 @@
 ## About Me
-- Research Intern @ [Yale CNCL](https://cncl.yale.edu/) (Yildirim Lab) | Cognitive Science & Data Science Major @ Northwestern University | AI Minor
 - Building computational models of how the brain represents visual scenes and musical structure.
 - Loves bouldering, badminton, and photography.
 
